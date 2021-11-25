@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# New-per portfolio
+# SERLOKAS
 
 _2-serlokas_
 
@@ -11,19 +11,13 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://linajja.github.io/2-serlokas/
 
-Design: https://new-per.netlify.app/demo-3.html
+Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
 ## Project features
 
 - Github pages
-- multi-page
-- content rendering with JS
-- carousel
-- gallery
-- fontawesome icons
-- CSS animations
-- CSS import
-- JS import-export
+- CSS
+- Image
 
 ## Authors
 
